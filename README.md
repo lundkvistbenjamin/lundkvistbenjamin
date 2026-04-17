@@ -32,9 +32,8 @@ A Java-based command-line application implementing the **A* Search Algorithm** t
 A web scraper that collects and processes discounted game data into CSV formats for market analysis.
 
 ---
-
 ### 📫 Let's Connect!
 
-| | |
-| **LinkedIn** | [![LinkedIn](https://img.shields.io/badge/LinkedIn-Benjamin--Lundkvist-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/benjamin-lundkvist-297b9624a) |
-| **Kaggle** | [![Kaggle](https://img.shields.io/badge/Kaggle-Notebooks%20Expert-blue?style=flat&logo=kaggle)](https://www.kaggle.com/benjaminlundkvist) |
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Benjamin--Lundkvist-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/benjamin-lundkvist-297b9624a)
+
+[![Kaggle](https://img.shields.io/badge/Kaggle-Notebooks%20Expert-blue?style=flat&logo=kaggle)](https://www.kaggle.com/benjaminlundkvist)
