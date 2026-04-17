@@ -36,8 +36,3 @@ A web scraper that collects and processes discounted game data into CSV formats 
 ### 📫 Let's Connect!
 - **LinkedIn:** [In/Benjamin-Lundkvist](https://www.linkedin.com/in/benjamin-lundkvist-297b9624a)
 - **Kaggle:** [Data Science Portfolio](https://www.kaggle.com/benjaminlundkvist)
-
----
-<p align="center">
-  <i>"From programming industrial robots to engineering data pipelines."</i>
-</p>
