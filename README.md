@@ -1,7 +1,7 @@
 ### 🚀 Professional Summary
 I am an **IT Engineer** specializing in **Data Engineering and Machine Learning**. 
 
-I spent 11 years progressing from production operations into a specialized role programming and maintaining **ABB and Fanuc industrial robots**. This decade-long tenure gave me a practical foundation in systems logic and industrial-scale troubleshooting, which I now apply to building robust data architectures and machine learning pipelines.
+Over an 11-year tenure in industrial operations, I evolved into a specialized role focused on **ABB and Fanuc robotics programming**. This decade-long tenure gave me a practical foundation in systems logic and industrial-scale troubleshooting, which I now apply to building robust data architectures and machine learning pipelines.
 
 - 🎓 **B.Eng in IT** from Arcada University of Applied Sciences (GPA: 4.7/5.0).
 - 🧠 **Thesis:** Developed *EduAutoFE*, a pedagogical CLI tool for automated feature engineering.
