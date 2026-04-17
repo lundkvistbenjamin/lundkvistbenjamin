@@ -15,7 +15,7 @@ I spent 11 years progressing from production operations into a specialized role 
 | :--- | :--- |
 | **Data & ML** | Python, SQL, ETL, Feature Engineering, Machine Learning, Scikit-Learn |
 | **Software** | Java, C#, JavaScript (Node.js), REST APIs |
-| **Infrastructure** | Docker, Linux (Ubuntu), Git/GitHub, Cloud-Native Apps |
+| **Infrastructure** | Docker, Linux, Git/GitHub, Cloud-Native Apps |
 | **Industrial** | ABB & Fanuc Robotics, System Architecture, PLC Logic |
 
 ---
