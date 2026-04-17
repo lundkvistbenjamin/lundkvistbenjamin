@@ -1,7 +1,3 @@
-# IT Engineer | Data Engineering & Machine Learning
-
----
-
 ### 🚀 Professional Summary
 I am an **IT Engineer** specializing in **Data Engineering and Machine Learning**. 
 
