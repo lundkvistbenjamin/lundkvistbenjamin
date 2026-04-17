@@ -1,10 +1,5 @@
 # IT Engineer | Data Engineering & Machine Learning
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lundkvistbenjamin&show_icons=true&theme=tokyonight" alt="Benjamin's GitHub Stats" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lundkvistbenjamin&layout=compact&theme=tokyonight" alt="Top Languages" height="170" />
-</div>
-
 ---
 
 ### 🚀 Professional Summary
