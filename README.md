@@ -37,4 +37,9 @@ A web scraper that collects and processes discounted game data into CSV formats 
 
 <p>LinkedIn &nbsp; <a href="https://www.linkedin.com/in/benjamin-lundkvist-297b9624a"><img src="https://img.shields.io/badge/LinkedIn-Benjamin--Lundkvist-blue?style=flat&logo=linkedin" alt="LinkedIn" vertical-align="middle"></a></p>
 
-<p>Kaggle &nbsp;&nbsp;&nbsp; <a href="https://www.kaggle.com/benjaminlundkvist"><img src="https://img.shields.io/badge/Kaggle-Notebooks%20Expert-blue?style=flat&logo=kaggle" alt="Kaggle" vertical-align="middle"></a></p>
+### 📫 Let's Connect!
+
+| | |
+| :--- | :--- |
+| **LinkedIn** | [![LinkedIn](https://img.shields.io/badge/LinkedIn-Benjamin--Lundkvist-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/benjamin-lundkvist-297b9624a) |
+| **Kaggle** | [![Kaggle](https://img.shields.io/badge/Kaggle-Notebooks%20Expert-blue?style=flat&logo=kaggle)](https://www.kaggle.com/benjaminlundkvist) |
