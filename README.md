@@ -1,11 +1,11 @@
 ### 🚀 Professional Summary
 I am an **IT Engineer** specializing in **Data Engineering and Machine Learning**. 
 
-Over an 11-year tenure in industrial operations, I evolved into a specialized role focused on **ABB and Fanuc robotics programming**. This extensive experience gave me a practical foundation in systems logic and industrial-scale troubleshooting, which I now apply to building robust data architectures and machine learning pipelines.
+Over an 11-year tenure in industrial operations, I evolved into a specialized role focused on **ABB and Fanuc robotics programming**. This decade-long experience provided me with a deep, practical foundation in systems logic and industrial-scale troubleshooting, which I now apply to building robust data architectures and machine learning pipelines.
 
-- 🎓 **B.Eng in IT** from Arcada University of Applied Sciences (GPA: 4.7/5.0).
-- 🧠 **Thesis:** Developed *EduAutoFE*, a pedagogical CLI tool for automated feature engineering.
-- 🛠️ **Current Focus:** Scalable ETL pipelines and Machine Learning.
+- 🎓 **B.Eng in IT** from Arcada University of Applied Sciences (**GPA: 4.7/5.0**).
+- 🧠 **Thesis:** Developed *EduAutoFE*, a pedagogical CLI tool that automates feature engineering and uses heuristic validation to flag data noise.
+- 🛠️ **Current Focus:** Scalable ETL pipelines, Data Analytics, and Machine Learning.
 
 ---
 
@@ -13,17 +13,17 @@ Over an 11-year tenure in industrial operations, I evolved into a specialized ro
 
 | Category | Technologies |
 | :--- | :--- |
-| **Data & ML** | Python, SQL, ETL, Feature Engineering, Machine Learning, Scikit-Learn |
-| **Software** | Java, C#, JavaScript (Node.js), REST APIs |
-| **Infrastructure** | Docker, Linux, Git/GitHub, Cloud-Native Apps |
-| **Industrial** | ABB & Fanuc Robotics, System Architecture, PLC Logic |
+| **Data & ML** | Python, SQL, Data Engineering, Data Analytics, Machine Learning, ETL, Feature Engineering |
+| **Software** | Python, SQL, Java, C#, JavaScript (Node.js), Data Structures & Algorithms |
+| **Infrastructure** | Docker, **CI/CD Pipelines**, REST APIs, Cloud-Native Apps, Linux, Git |
+| **Industrial** | ABB & Fanuc Robotics, Industrial Logic, Troubleshooting |
 
 ---
 
 ### 📂 Featured Projects
 
 #### 🤖 [EduAutoFE](https://github.com/lundkvistbenjamin/edu-autofe)
-A pedagogical CLI tool that automates feature engineering. It detects ML problem types, applies transformations (log, square, interactions), and flags data noise with heuristic validation.
+A pedagogical CLI tool that automates feature engineering. It detects ML problem types, applies mathematical transformations, and **uses heuristic validation to flag data noise and incorrect input formats.**
 
 #### 🛰️ [Drone Delivery Pathfinding](https://github.com/lundkvistbenjamin/drone-delivery)
 A Java-based command-line application implementing the **A* Search Algorithm** to find optimal routes between libraries in Helsinki.
