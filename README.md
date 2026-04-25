@@ -1,11 +1,13 @@
 ### 🚀 Professional Summary
-I am an **IT Engineer** specializing in **Data Engineering and Machine Learning**. 
+I am an **IT Engineer** specializing in **Data Pipelines, Machine Learning, and Cloud-Native Applications**. 
 
-Over an 11-year tenure in industrial operations, I evolved into a specialized role focused on the maintenance of **ABB and Fanuc robotic units**. This decade-long experience provided me with a deep, practical foundation in systems logic and industrial-scale troubleshooting, which I now apply to building robust data architectures and machine learning pipelines.
+Over an 11-year tenure in industrial operations, I transitioned into a specialized role maintaining and optimizing **ABB and Fanuc robotic units**. This decade of experience provided me with a deep, practical foundation in systems logic and industrial-scale troubleshooting. I specialized in diagnosing physical cell faults, performing pendant point adjustments, and maintaining the logical flow of fully automated workflows to ensure maximum uptime.
+
+I apply this industrial mindset of precision and systems reliability to building robust data architectures and scalable software solutions.
 
 - 🎓 **B.Eng in IT** from Arcada University of Applied Sciences (**GPA: 4.7/5.0**).
 - 🧠 **Thesis:** Developed *EduAutoFE*, a pedagogical CLI tool that automates feature engineering and uses heuristic validation to flag data noise.
-- 🛠️ **Current Focus:** Scalable ETL pipelines, Data Analytics, and Machine Learning.
+- 🛠️ **Current Focus:** Cloud-Native Architecture, Scalable ETL pipelines, and Machine Learning.
 
 ---
 
@@ -13,10 +15,10 @@ Over an 11-year tenure in industrial operations, I evolved into a specialized ro
 
 | Category | Technologies |
 | :--- | :--- |
-| **Data & ML** | Python, SQL, Data Engineering, Data Analytics, Machine Learning, ETL, Feature Engineering |
-| **Software** | Python, SQL, Java, C#, JavaScript (Node.js), Data Structures & Algorithms |
-| **Infrastructure** | Docker, **CI/CD Pipelines**, REST APIs, Cloud-Native Apps, Linux, Git |
-| **Industrial** | ABB & Fanuc Robotics, Industrial Logic, Troubleshooting |
+| **Data & ML** | Python, SQL, ETL, Machine Learning, Predictive Modeling, Feature Engineering |
+| **Software** | Python, Java, C#, JavaScript, Node.js, Vue, Data Structures & Algorithms |
+| **Infrastructure** | **Cloud-Native Apps**, Docker, **CI/CD Pipelines**, REST APIs, System Architecture |
+| **Industrial** | ABB & Fanuc Robotics, Pendant Operations, Industrial Logic, Troubleshooting |
 
 ---
 
@@ -26,14 +28,14 @@ Over an 11-year tenure in industrial operations, I evolved into a specialized ro
 A pedagogical CLI tool that automates feature engineering. It detects ML problem types, applies mathematical transformations, and **uses heuristic validation to flag data noise and incorrect input formats.**
 
 #### 🛰️ [Drone Delivery Pathfinding](https://github.com/lundkvistbenjamin/drone-delivery)
-A Java-based command-line application implementing the **A* Search Algorithm** to find optimal routes between libraries in Helsinki.
+A Java-based command-line application implementing the **A* Search Algorithm** to calculate optimal flight paths between libraries in Helsinki.
 
 #### 📊 [Steam Sales Scraper](https://github.com/lundkvistbenjamin/steam-sales-scraper)
-A web scraper that collects and processes discounted game data into CSV formats for market analysis.
+A web scraper that collects and processes discounted game data into CSV formats for market analysis and trend forecasting.
 
 ---
+
 ### 📫 Let's Connect!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Benjamin%20Lundkvist-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/benjamin-lundkvist-297b9624a)
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/benjamin-lundkvist-297b9624a)
 [![Kaggle](https://img.shields.io/badge/Kaggle-Notebooks%20Expert-blue?style=flat&logo=kaggle)](https://www.kaggle.com/benjaminlundkvist)
