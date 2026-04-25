@@ -1,5 +1,5 @@
 ### 🚀 Professional Summary
-I am an **IT Engineer** specializing in **Data Pipelines, Machine Learning, and Cloud-Native Applications**. 
+**IT Engineer** specializing in **Data Pipelines, Machine Learning, and Cloud-Native Applications**. 
 
 Over an 11-year tenure in industrial operations, I transitioned into a specialized role maintaining and optimizing **ABB and Fanuc robotic units**. This decade of experience provided me with a deep, practical foundation in systems logic and industrial-scale troubleshooting. I specialized in diagnosing physical cell faults, performing pendant point adjustments, and maintaining the logical flow of fully automated workflows to ensure maximum uptime.
 
