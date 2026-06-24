@@ -1,37 +1,26 @@
 ### 🚀 Professional Summary
-**IT Engineer** specializing in **Data Pipelines, Machine Learning, and Cloud-Native Applications**. 
 
-Over an 11-year tenure in industrial operations, I transitioned into a specialized role maintaining and optimizing **ABB and Fanuc robotic units**. This decade of experience provided me with a deep, practical foundation in systems logic and industrial-scale troubleshooting. I specialized in diagnosing physical cell faults, performing pendant point adjustments, and maintaining the logical flow of fully automated workflows to ensure maximum uptime.
+**IT Engineer** specializing in **Data Pipelines, Machine Learning, and Cloud-Native Applications**. I bridge a decade of industrial robotics expertise with modern, scalable software engineering.
 
-I apply this industrial mindset of precision and systems reliability to building robust data architectures and scalable software solutions.
-
-- 🎓 **B.Eng in IT** from Arcada University of Applied Sciences (**GPA: 4.7/5.0**).
-- 🧠 **Thesis:** Developed *EduAutoFE*, a pedagogical CLI tool that automates feature engineering and uses heuristic validation to flag data noise.
-- 🛠️ **Current Focus:** Cloud-Native Architecture, Scalable ETL pipelines, and Machine Learning.
+- 🎓 **B.Eng in IT** | Arcada University of Applied Sciences (GPA: 4.7/5.0)
+- 🛠️ **Current Focus** | Cloud-Native Architecture, Scalable ETL, and ML Pipelines
 
 ---
 
 ### 🛠️ Technical Toolkit
 
-| Category | Technologies |
-| :--- | :--- |
-| **Data & ML** | Python, SQL, ETL, Machine Learning, Predictive Modeling, Feature Engineering |
-| **Software** | Python, Java, C#, JavaScript, Node.js, Vue, Data Structures & Algorithms |
-| **Infrastructure** | **Cloud-Native Apps**, Docker, **CI/CD Pipelines**, REST APIs, System Architecture |
-| **Industrial** | ABB & Fanuc Robotics, Pendant Operations, Industrial Logic, Troubleshooting |
+* **Data & ML:** Python, SQL, ETL, Machine Learning, Feature Engineering
+* **Software:** Java, C#, JavaScript, Node.js, Vue, Data Structures & Algorithms
+* **Infrastructure:** Docker, CI/CD Pipelines, REST APIs, Cloud-Native Apps
+* **Industrial:** ABB & Fanuc Robotics, Industrial Logic, Troubleshooting
 
 ---
 
 ### 📂 Featured Projects
 
-#### 🤖 [EduAutoFE](https://github.com/lundkvistbenjamin/edu-autofe)
-A pedagogical CLI tool that automates feature engineering. It detects ML problem types, applies mathematical transformations, and **uses heuristic validation to flag data noise and incorrect input formats.**
-
-#### 🛰️ [Drone Delivery Pathfinding](https://github.com/lundkvistbenjamin/drone-delivery)
-A Java-based command-line application implementing the **A* Search Algorithm** to calculate optimal flight paths between libraries in Helsinki.
-
-#### 📊 [Steam Sales Scraper](https://github.com/lundkvistbenjamin/steam-sales-scraper)
-A web scraper that collects and processes discounted game data into CSV formats for market analysis and trend forecasting.
+* **[EduAutoFE](https://github.com/lundkvistbenjamin/edu-autofe):** Pedagogical CLI tool automating feature engineering with heuristic validation to flag data noise. (Thesis Project)
+* **[Drone Delivery Pathfinding](https://github.com/lundkvistbenjamin/drone-delivery):** Java application using the A* Search Algorithm to optimize flight paths between Helsinki libraries.
+* **[Steam Sales Scraper](https://github.com/lundkvistbenjamin/steam-sales-scraper):** Web scraper processing discounted game data for market trend analysis.
 
 ---
 
