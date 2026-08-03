@@ -1,4 +1,4 @@
-### 🚀 Professional Summary
+### Professional Summary
 
 **IT Engineer** specializing in **Data Pipelines, Machine Learning, and Cloud-Native Applications**. Applying a decade of industrial robotics expertise to building software engineering solutions.
 
