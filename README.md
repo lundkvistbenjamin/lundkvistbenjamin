@@ -7,7 +7,7 @@
 
 ---
 
-### 🛠️ Technical Toolkit
+### Technical Toolkit
 
 * **Data & ML:** Python, SQL, ETL, Machine Learning, Feature Engineering
 * **Software:** Java, C#, JavaScript, Node.js, Vue, Data Structures & Algorithms
@@ -16,7 +16,7 @@
 
 ---
 
-### 📂 Featured Projects
+### Featured Projects
 
 * **[EduAutoFE](https://github.com/lundkvistbenjamin/edu-autofe):** Pedagogical CLI tool automating feature engineering with heuristic validation to flag data noise. (Thesis Project)
 * **[Drone Delivery Pathfinding](https://github.com/lundkvistbenjamin/drone-delivery):** Java application using the A* Search Algorithm to optimize flight paths between Helsinki libraries.
