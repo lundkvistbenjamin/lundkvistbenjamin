@@ -1,19 +1,20 @@
-## Professional Summary
+Building backend systems, data pipelines, and machine learning applications with a focus on clean architecture and practical engineering.
 
-**IT Engineer** specializing in **Data Pipelines, Machine Learning, and Cloud-Native Applications**. Applying a decade of industrial robotics expertise to building software engineering solutions.
+Former robotics technician with 11 years in industrial automation, now applying that engineering mindset to software development.
 
-- **B.Eng in IT** | Arcada University of Applied Sciences
-- **Current Focus** | Cloud-Native Architecture, Data processing, and ML Pipelines
-
----
+**Areas of Interest**
+- Backend Engineering
+- Data Engineering
+- Machine Learning
+- Cloud-Native Applications
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=linux,bash,docker,githubactions,git,python,js,cs,java,fastapi,nodejs,vue,postgres,sklearn" />
+  <img src="https://skillicons.dev/icons?i=linux,bash,git,githubactions,docker,python,js,cs,java,fastapi,nodejs,vue,postgres,sklearn" />
 </p>
 
 ---
 
-## Let's Connect!
+## Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/benjamin-lundkvist-297b9624a)
 [![Kaggle](https://img.shields.io/badge/Kaggle-Notebooks%20Expert-blue?style=flat&logo=kaggle)](https://www.kaggle.com/benjaminlundkvist)
