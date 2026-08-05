@@ -2,7 +2,7 @@
 
 **IT Engineer** specializing in **Data Pipelines, Machine Learning, and Cloud-Native Applications**. Applying a decade of industrial robotics expertise to building software engineering solutions.
 
-- 🎓 **B.Eng in IT** | Arcada University of Applied Sciences (GPA: 4.7/5.0)
+- 🎓 **B.Eng in IT** | Arcada University of Applied Sciences
 - 🛠️ **Current Focus** | Cloud-Native Architecture, Data processing, and ML Pipelines
 
 ---
