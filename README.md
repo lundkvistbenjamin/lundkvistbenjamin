@@ -8,7 +8,7 @@
 ---
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,postgres,java,cs,js,nodejs,vue,docker,githubactions,fastapi" />
+  <img src="https://skillicons.dev/icons?i=python,postgres,java,cs,js,nodejs,vue,docker,githubactions,fastapi,linux,git,bash,sklearn,mongodb,postman" />
 </p>
 
 ---
