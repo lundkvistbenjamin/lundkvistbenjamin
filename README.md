@@ -18,9 +18,9 @@
 
 ### Featured Projects
 
-* **[EduAutoFE](https://github.com/lundkvistbenjamin/edu-autofe):** Pedagogical CLI tool automating feature engineering with heuristic validation to flag data noise. (Thesis Project)
-* **[Drone Delivery Pathfinding](https://github.com/lundkvistbenjamin/drone-delivery):** Java application using the A* Search Algorithm to optimize flight paths between Helsinki libraries.
-* **[Steam Sales Scraper](https://github.com/lundkvistbenjamin/steam-sales-scraper):** Web scraper processing discounted game data for market trend analysis.
+* **[EduAutoFE](https://github.com/lundkvistbenjamin/edu-autofe):** Educational automated feature engineering library in Python that automatically detects problem types, evaluates single and pairwise non-linear mathematical transformations using 5-fold cross-validation, and generates interpretable performance insights. (Thesis Project)
+* **[Steam Hidden Gems Finder](https://github.com/lundkvistbenjamin/steam-hidden-gems-etl):** Automated ETL pipeline running nightly via GitHub Actions to ingest SteamSpy data, process engagement metrics, and perform high-performance batch upserts into Supabase PostgreSQL.
+* **[Yu-Gi-Oh! Synergy Matcher](https://github.com/lundkvistbenjamin/yu-gi-oh-synergy-matcher-backend):** Serverless ML backend with FastAPI featuring an automated YGOPRODeck ingestion pipeline, feature engineering, and a compressed Random Forest classifier for real-time archetype prediction.
 
 ---
 
