@@ -5,9 +5,13 @@
 - 🎓 **B.Eng in IT** | Arcada University of Applied Sciences (GPA: 4.7/5.0)
 - 🛠️ **Current Focus** | Cloud-Native Architecture, Data processing, and ML Pipelines
 
+---
+
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,postgres,java,cs,js,nodejs,vue,docker,githubactions,fastapi" />
 </p>
+
+---
 
 ## 📫 Let's Connect!
 
