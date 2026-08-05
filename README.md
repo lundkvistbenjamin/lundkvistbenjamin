@@ -2,8 +2,8 @@
 
 **IT Engineer** specializing in **Data Pipelines, Machine Learning, and Cloud-Native Applications**. Applying a decade of industrial robotics expertise to building software engineering solutions.
 
-- 🎓 **B.Eng in IT** | Arcada University of Applied Sciences
-- 🛠️ **Current Focus** | Cloud-Native Architecture, Data processing, and ML Pipelines
+- **B.Eng in IT** | Arcada University of Applied Sciences
+- **Current Focus** | Cloud-Native Architecture, Data processing, and ML Pipelines
 
 ---
 
@@ -13,7 +13,7 @@
 
 ---
 
-## 📫 Let's Connect!
+## Let's Connect!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/benjamin-lundkvist-297b9624a)
 [![Kaggle](https://img.shields.io/badge/Kaggle-Notebooks%20Expert-blue?style=flat&logo=kaggle)](https://www.kaggle.com/benjaminlundkvist)
