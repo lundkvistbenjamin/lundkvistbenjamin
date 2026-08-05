@@ -1,4 +1,4 @@
-### Professional Summary
+## Professional Summary
 
 **IT Engineer** specializing in **Data Pipelines, Machine Learning, and Cloud-Native Applications**. Applying a decade of industrial robotics expertise to building software engineering solutions.
 
@@ -9,7 +9,7 @@
   <img src="https://skillicons.dev/icons?i=python,postgres,java,cs,js,nodejs,vue,docker,githubactions,fastapi" />
 </p>
 
-### 📫 Let's Connect!
+## 📫 Let's Connect!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/benjamin-lundkvist-297b9624a)
 [![Kaggle](https://img.shields.io/badge/Kaggle-Notebooks%20Expert-blue?style=flat&logo=kaggle)](https://www.kaggle.com/benjaminlundkvist)
