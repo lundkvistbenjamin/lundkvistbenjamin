@@ -7,12 +7,9 @@
 
 ---
 
-### Technical Toolkit
-
-* **Data & ML:** Python, SQL, ETL, Machine Learning, Feature Engineering
-* **Software:** Java, C#, JavaScript, Node.js, Vue, Data Structures & Algorithms
-* **Infrastructure:** Docker, CI/CD Pipelines, REST APIs, Cloud-Native Apps
-* **Industrial:** ABB & Fanuc Robotics, Industrial Logic, Troubleshooting
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,postgres,java,cs,js,nodejs,vue,docker,githubactions,fastapi" />
+</p>
 
 ---
 
