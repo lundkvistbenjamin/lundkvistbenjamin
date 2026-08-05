@@ -1,3 +1,5 @@
+## About
+
 Building backend systems, data pipelines, and machine learning applications with a focus on clean architecture and practical engineering.
 
 Former robotics technician with 11 years in industrial automation, now applying that engineering mindset to software development.
