@@ -1,11 +1,11 @@
 ## About
 
-Building backend systems, data pipelines, and machine learning applications with a focus on clean architecture and practical engineering.
+Building full-stack, data, and machine learning applications with a focus on clean architecture and practical engineering.
 
 Former robotics technician with 11 years in industrial automation, now applying that engineering mindset to software development.
 
 **Areas of Interest**
-- Backend Engineering
+- Full-Stack Development
 - Data Engineering
 - Machine Learning
 - Cloud-Native Applications
