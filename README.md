@@ -17,7 +17,7 @@ Former robotics technician with 11 years in industrial automation.
 
 <p align="left">
   <b>Frameworks, Data & Tools</b><br />
-  <img src="https://skillicons.dev/icons?i=fastapi,nodejs,vue,postgres,supabase,sklearn,pytorch,pandas,numpy" />
+  <img src="https://skillicons.dev/icons?i=fastapi,nodejs,vue,postgres,supabase,sklearn,pytorch" />
 </p>
 
 <p align="left">
