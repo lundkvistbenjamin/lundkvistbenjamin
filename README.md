@@ -11,7 +11,7 @@ Former robotics technician with 11 years in industrial automation.
 - Cloud-Native Applications
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=linux,bash,git,githubactions,docker,python,js,cs,java,fastapi,nodejs,vue,postgres,sklearn" />
+  <img src="https://skillicons.dev/icons?i=linux,bash,git,githubactions,docker,python,js,cs,java,fastapi,nodejs,vue,postgres,sklearn,pandas,numpy" />
 </p>
 
 ---
