@@ -17,12 +17,12 @@ Former robotics technician with 11 years in industrial automation.
 
 <p align="left">
   <b>Frameworks, Data & Tools</b><br />
-  <img src="https://skillicons.dev/icons?i=fastapi,nodejs,vue,postgres,supabase,sklearn,pytorch" />
+  <img src="https://skillicons.dev/icons?i=fastapi,vue,nodejs,postgres,supabase,pytorch,sklearn" />
 </p>
 
 <p align="left">
   <b>DevOps & Environment</b><br />
-  <img src="https://skillicons.dev/icons?i=linux,bash,git,githubactions,docker,vercel" />
+  <img src="https://skillicons.dev/icons?i=docker,githubactions,linux,bash,git,vercel" />
 </p>
 
 ---
